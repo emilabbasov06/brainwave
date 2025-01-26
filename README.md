@@ -1,8 +1,12 @@
-# React + Vite
+## Brainwave React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Description
+Brainwave is a ReactJS application styled with TailwindCSS. It offers a responsive and visually appealing interface for users, showcasing modern frontend design techniques.
 
-Currently, two official plugins are available:
+### Technologies Used
+- ReactJS
+- TailwindCSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+- Fully responsive design.
+- Stylish and modern UI.
